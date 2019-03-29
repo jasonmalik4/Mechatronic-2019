@@ -36,4 +36,7 @@ WEEK 6
 
 [![IMAGE ALT TEXT HERE](https://youtu.be/q58s0F3_8aU.jpg)](https://youtu.be/q58s0F3_8aU)
 
+WEEK 7
+
+Work week
 
