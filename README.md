@@ -30,3 +30,10 @@ WEEK 5
 [![IMAGE ALT TEXT HERE](https://youtu.be/VmnM-Um7Nxo.jpg)](https://youtu.be/VmnM-Um7Nxo)
 
 WEEK 6
+* Drawing machine Iteration 
+* DC gearbox motor (3-6V)
+* 3V power supply
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/q58s0F3_8aU.jpg)](https://youtu.be/q58s0F3_8aU)
+
+
