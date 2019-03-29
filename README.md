@@ -40,3 +40,7 @@ WEEK 7
 
 Work week
 
+WEEK 8
+* California Academy of Science (Night Life)
+* Drawing Machine Iteration 3
+* Arduino 
