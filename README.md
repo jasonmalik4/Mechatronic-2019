@@ -20,14 +20,14 @@ WEEK 4
 * Wire contraption Iteration 2
 * Motorize
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ZreVYS2kmuU)
+[![Iimg.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ZreVYS2kmuU)
 
 WEEK 5
 * Motorized drawing machine
 * DC gearbox motor (3-6V)
 * 3V power supply
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/VmnM-Um7Nxo.jpg)](https://youtu.be/VmnM-Um7Nxo)
+[![https://youtu.be/VmnM-Um7Nxo.jpg](https://youtu.be/VmnM-Um7Nxo.jpg)](https://youtu.be/VmnM-Um7Nxo)
 
 WEEK 6
 * Drawing machine Iteration 
