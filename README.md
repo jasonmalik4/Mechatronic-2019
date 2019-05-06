@@ -34,7 +34,7 @@ WEEK 6
 * DC gearbox motor (3-6V)
 * 3V power supply
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/q58s0F3_8aU.jpg)](https://youtu.be/q58s0F3_8aU)
+[![https://youtu.be/q58s0F3_8aU.jpg](https://youtu.be/q58s0F3_8aU.jpg)](https://youtu.be/q58s0F3_8aU)
 
 WEEK 7
 
@@ -44,3 +44,10 @@ WEEK 8
 * California Academy of Science (Night Life)
 * Drawing Machine Iteration 3
 * Arduino 
+
+WEEK 9
+* Individual meetings 
+
+WEEK 10
+* concept development for final project 
+* 
