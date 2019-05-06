@@ -53,4 +53,4 @@ WEEK 10
 * begain sodering together piezoelectric crystals with hopes to power a motor
 
 WEEK 11
-![](mechatronic-2019/filenameIMG_0210.jpg) 
+![](mechatronic-2019/filename IMG_0210.jpg) 
