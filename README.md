@@ -53,4 +53,8 @@ WEEK 10
 * begain sodering together piezoelectric crystals with hopes to power a motor
 
 WEEK 11
-![](Mechatronic-2019/blob/master/IMG_0210.jpg) 
+* breadboard
+* bridge rectifier 
+* capasitior
+* peizoele tric crystals 
+![](IMG_0210.png) 
