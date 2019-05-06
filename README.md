@@ -71,3 +71,5 @@ Final Proposal
 * Using circuits, arduino, and gears I was able to fulfill my goal of learning Arduino and mechanical skills
 
 [![https://youtu.be/a4MHyfqFUfk](https://youtu.be/a4MHyfqFUfk)]
+
+![](piezo.png)
