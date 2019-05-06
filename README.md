@@ -56,5 +56,13 @@ WEEK 11
 * breadboard
 * bridge rectifier 
 * capasitior
-* peizoele tric crystals 
+* piezoelectric crystals 
 ![](IMG_0210.png) 
+
+WEEK 12 
+
+[![https://youtu.be/unBLj30jYtY](https://youtu.be/unBLj30jYtY)]
+
+* working prototype of piezo drum 
+
+WEEK 13
