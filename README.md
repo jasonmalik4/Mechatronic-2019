@@ -50,4 +50,7 @@ WEEK 9
 
 WEEK 10
 * concept development for final project 
-* 
+* begain sodering together piezoelectric crystals with hopes to power a motor
+
+WEEK 11
+*
