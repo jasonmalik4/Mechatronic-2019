@@ -65,4 +65,8 @@ WEEK 12
 
 * working prototype of piezo drum 
 
-WEEK 13
+Final Proposal 
+
+* The goal of this project was to learn Arduino skills as well as mechanical skills. Both were achieved through making and iteration. The concept for the project is a future world where greenspace is hard to find, therefore interactive metal sculpture replace parks. 
+* Using circuits, arduino, and gears I was able to fulfill my goal of learning Arduino and mechanical skills
+*
